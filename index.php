@@ -2,10 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Chúc mừng bạn!</title>
 </head>
 <body>
 <h2>
-    <a href="https://lovenhi.herokuapp.com/" title="học lập trình online" rel="follow, index">Xin chào bạn Nhi, mời bạn click tại đây---</a></h2>
+    <h1>Xin chúc mừng! Bạn là một trong những người may mắn trong ngày hôm nay</h1>
+    <a href="https://lovenhi.herokuapp.com/" title="học lập trình online" rel="follow, index">Click vào đây để nhận thưởng nàoô </a></h2>
 </body>
 </html>
